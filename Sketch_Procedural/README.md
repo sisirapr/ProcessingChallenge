@@ -1,11 +1,10 @@
 # Processing Challenge
 
-## Method 1: Procedural method
+## Method: Procedural method
 
-##Problem :
-
-There are Four balls moving from left to right.
-Ball 1 : Position- 1/5th of HEIGHT , speed- 1 ball per second
-Ball 2 : Position- 2/5th of HEIGHT , speed- 2 ball per second
-Ball 3 : Position- 3/5th of HEIGHT , speed- 3 ball per second
-Ball 4 : Position- 4/5th of HEIGHT , speed- 4 ball per second
+### Problem :
+There are 4 balls moving from left to right.
+* Ball 1: position - 1/5 of HEIGHT, speed - 1 balls per second
+* Ball 2: position - 2/5 of HEIGHT, speed - 2 balls per second
+* Ball 3: position - 3/5 of HEIGHT, speed - 3 balls per second
+* Ball 4: position - 5/5 of HEIGHT, speed - 4 balls per second
